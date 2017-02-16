@@ -1,0 +1,7 @@
+{
+  "deployments": {
+    "blockchain://41941023680923e0fe4d74a34bdac8141f2540e3ae90623718e47d66d1ca4a2d/block/60539e9f107346d64afb1fa8c84ae7caea6e8a24d9025f74734ea7268457bf0b": {
+      "WhitelistAuthority": "0x56ede4ce0557362736ca25771ce7e9b46c213391"
+    }
+  }
+}

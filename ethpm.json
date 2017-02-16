@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "Piper Merriam <pipermerriam@gmail.com>"
+  ],
+  "dependencies": {
+    "whitelist-authority": "1.0.0"
+  },
+  "description": "The Authority contract for the EthPM package registry",
+  "keywords": [
+    "EthPM",
+    "Authority"
+  ],
+  "license": "MIT",
+  "links": {
+    "repository": "https://github.com/pipermerriam/ethpm-authority"
+  },
+  "manifest_version": "1",
+  "package_name": "ethpm-authority",
+  "version": "1.0.0"
+}
